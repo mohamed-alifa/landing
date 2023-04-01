@@ -1,0 +1,15 @@
+.btn-blue {
+	background-color: #9DC08B;
+	padding: 12px 17px;
+	border-radius: 5px;
+	font-weight: bold;
+	font-family: ‘font’;
+	font-size: size: 20px;
+	color: #white;
+}
+
+.btn-blue:hover {
+	background-color: #background color of the button when the cursor passes over it;
+	color: #text color when the cursor passes;
+
+
